@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Jun 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update base.html ([@ayushprobroyopython](https://github.com/ayushprobroyopython))
+
+#### Authors: 1
+
+- [@ayushprobroyopython](https://github.com/ayushprobroyopython)
+
+---
+
 # v0.0.1 (Wed Jun 25 2025)
 
 :tada: This release contains work from a new contributor! :tada:
